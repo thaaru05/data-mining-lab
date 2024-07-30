@@ -1,0 +1,16 @@
+Transaction,Item
+1,Bread
+1,Milk
+1,Beer
+2,Bread
+2,Diapers
+2,Milk
+3,Milk
+3,Diapers
+3,Bread
+4,Bread
+4,Milk
+4,Diapers
+4,Beer
+5,Diapers
+5,Beer
